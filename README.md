@@ -1,5 +1,5 @@
 # c-plus-plus-practice
-
+A repository for me to develop and demonstrate proficiency in C++.
 ## Projects
 
 In chronological order...
